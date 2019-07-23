@@ -1,0 +1,2 @@
+Show
+  <%= link "Delete", to: Routes.example_path(@conn, :delete, @example), method: :delete %>
